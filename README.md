@@ -3,6 +3,8 @@ Kaggle TPS Jan2022
 
 Repositorio para la competencia de Kaggle Tabular Playground Series - Jan 2022
 
+https://www.kaggle.com/c/tabular-playground-series-jan-2022/overview
+
 Project Organization
 ------------
 
